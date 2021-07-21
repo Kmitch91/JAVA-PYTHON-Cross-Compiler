@@ -1,0 +1,16 @@
+public class Main 
+{
+	public static void main(String[] args) 
+	{
+		int a = 10;
+		int b = 5;
+		if (b > a) 
+		{
+		  System.out.println("b is greater than a");
+		} 
+		else 
+		{
+		  System.out.println("b is not greater than a");
+		}
+	}
+}
